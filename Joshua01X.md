@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Lab Projects:</h2>
 
 - <b>Cloud SOC Environment</b>
-  - [Implementing real-time SOC & Honeynet in Microsoft Azure](https://github com/) <br>
+  - [Implementing real-time SOC & Honeynet in Microsoft Azure](https://github.com/Joshua01X/CLOUD-SOC) <br>
 
 <h2> 🤳 Connect with me:</h2>
 
