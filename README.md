@@ -16,7 +16,7 @@
 [linkedin]: https://linkedin com/in/
 <br>
 <h4> - 🔭 I’m currently working on OpenVAS Vulnerability Management Lab <br>
-- 🌱 I’m currently learning CompTIA Sec+ contents and does Qualys' Certified Trainings </h4>
+- 🌱 I’m currently learning CompTIA Sec+ contents and Qualys' Certified Trainings </h4>
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
