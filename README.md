@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Lab Projects:</h2>
 
 - <b>Virtualized SOC Environment</b>
-  - [abc](https://github com/)
+  - [abc](https://github com/) <br>
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -14,7 +14,7 @@
 [twitter]: https://twitter com/
 [instagram]: https://www.instagram com/
 [linkedin]: https://linkedin com/in/
-
+<br>
 <h4> - 🔭 I’m currently working on OpenVAS Vulnerability Management Lab <br>
 - 🌱 I’m currently learning CompTIA Sec+ contents and does Qualys' Certified Trainings </h4>
 <!--
