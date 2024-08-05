@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Lab Projects:</h2>
 
-- <b>Virtualized SOC Environment</b>
-  - [abc](https://github com/) <br>
+- <b>Cloud SOC Environment</b>
+  - [Implementing real-time SOC/Honeynet in Microsoft Azure](https://github com/) <br>
 
 <h2> 🤳 Connect with me:</h2>
 
