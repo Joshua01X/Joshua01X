@@ -15,7 +15,7 @@
 [instagram]: https://www.instagram com/
 [linkedin]: https://linkedin com/in/
 <br>
-<h4> - 🔭 I’m currently working on OpenVAS Vulnerability Management Lab and Wazuh platform <br>
+<h4> - 🔭 I’m currently working on OpenVAS Vulnerability Management Lab project and Wazuh platform <br>
 - 🌱 I’m currently learning CompTIA Sec+ contents and Qualys' Certified Trainings </h4>
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
