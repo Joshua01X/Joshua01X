@@ -14,7 +14,7 @@ Here, you will find a collection of my work, ranging from innovative security so
 
 
 > <h5>still in test</h5>
-## 🔗 Connect with me:
+## 🔗 Let's Connnect!
 
 [<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
