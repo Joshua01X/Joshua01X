@@ -1,7 +1,7 @@
 ![banner](https://github.com/Joshua01X/Joshua01X/blob/main/banner.png?raw=true)
 
 <h1 align="center">Hello, I'm Joshua! </h1>
-<h3 align="center"> Committed to cybersecurity excellence and continuous learning </h3><br><br>
+<h3 align="center"> Committed to cybersecurity excellence and continuous learning </h3><br>
 
 Welcome to my GitHub profile! I am a passionate and driven cybersecurity professional dedicated to safeguarding digital environments and enhancing security protocols. With a Google Cybersecurity Professional Certificate and hands-on experience from several projects, I bring a strong foundation in threat detection and risk management. My commitment to continuous learning and professional growth fuels my enthusiasm for exploring new challenges in the cybersecurity landscape. <br>
 
