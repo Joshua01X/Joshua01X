@@ -1,4 +1,5 @@
-![banner]()
+![banner](https://github.com/Joshua01X/Joshua01X/blob/main/futuristic-background-geometric-style_23-2148459425.png?raw=true)
+
 <h6><i></i>testing phase</i></h6><h1>Hi, I'm Joshua! <br/><a href="https://github com/">Programmer</a>, <a href="https://www.linkedin.com/in//">Cybersecurity Professional</a></h1>
 
 <h2>🖥️ Cybersecurity Lab Projects:</h2>
