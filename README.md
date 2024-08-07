@@ -20,6 +20,7 @@ Here, you will find a collection of my work, ranging from innovative security so
   - [Basic SQL Filtering](https://github.com/Joshua01X/Basic-SQL-Filtering)
   - [Incident Report Analysis](https://github.com/Joshua01X/Incident-Report-Analysis)
   - [Security Risk Assessment Report](https://github.com/Joshua01X/Risk-Assessment-Report)
+  - [Vulnerability Assessment Report](https://github.com/Joshua01X/Vulnerability-Assessment)
 
 > <h5>still in test</h5>
 ## 🔗 Let's Connnect!
