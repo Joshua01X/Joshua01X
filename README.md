@@ -21,6 +21,9 @@ Here, you will find a collection of my work, ranging from innovative security so
   - [Incident Report Analysis](https://github.com/Joshua01X/Incident-Report-Analysis)
   - [Security Risk Assessment Report](https://github.com/Joshua01X/Risk-Assessment-Report)
   - [Vulnerability Assessment Report](https://github.com/Joshua01X/Vulnerability-Assessment)
+ 
+<h4> - 🔭 Working on OpenVAS Vulnerability Management Lab project and Wazuh platform <br>
+- 🌱 Learning CompTIA Sec+ contents and Qualys' Certified Training Programs </h4>
 
 > <h5>section under construction</h5>
 ## 🔗 Let's Connnect!
@@ -32,7 +35,4 @@ Here, you will find a collection of my work, ranging from innovative security so
 [twitter]: https://twitter com/
 [instagram]: https://www.instagram com/
 [linkedin]: https://linkedin com/in/
-<br><br><br>
 
-<h4> - 🔭 Working on OpenVAS Vulnerability Management Lab project and Wazuh platform <br>
-- 🌱 Learning CompTIA Sec+ contents and Qualys' Certified Training Programs </h4>
