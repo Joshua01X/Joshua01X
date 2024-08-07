@@ -10,7 +10,7 @@ Here, you will find a collection of my work, ranging from innovative security so
 ## 🖥️ Projects
 
 - <b>Microsoft Azure Projects</b>
-  - [Implementing real-time SOC & Honeynet Environment](https://github.com/Joshua01X/CLOUD-SOC)
+  - [Real-time SOC & Honeynet Environment Deployment](https://github.com/Joshua01X/CLOUD-SOC)
   - [Setting Up Honeynet Environment](https://github.com/Joshua01X/Honeynet-Configuration)
   - [Setting Up Microsoft Sentinel (SIEM)](https://github.com/Joshua01X/SIEM-Configuration)
   - [Setting Up Central Log Repository](https://github.com/Joshua01X/LAW-Configuration) <br><br><br>
