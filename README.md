@@ -15,6 +15,9 @@ Here, you will find a collection of my work, ranging from innovative security so
   - [Setting Up Microsoft Sentinel (SIEM)](https://github.com/Joshua01X/SIEM-Configuration)
   - [Setting Up Central Log Repository](https://github.com/Joshua01X/LAW-Configuration) <br><br><br>
 
+- <b>Google Cybersecurity Projects</b>
+  - 
+
 
 > <h5>still in test</h5>
 ## 🔗 Let's Connnect!
