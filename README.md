@@ -22,7 +22,7 @@ Here, you will find a collection of my work, ranging from innovative security so
   - [Security Risk Assessment Report](https://github.com/Joshua01X/Risk-Assessment-Report)
   - [Vulnerability Assessment Report](https://github.com/Joshua01X/Vulnerability-Assessment)
 
-> <h5>still in test</h5>
+> <h5>section under construction</h5>
 ## 🔗 Let's Connnect!
 
 [<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
