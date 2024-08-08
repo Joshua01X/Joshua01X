@@ -15,7 +15,8 @@ Welcome to my GitHub profile! I am a passionate and driven cybersecurity learner
   - Incident Response Operation (next) <br>
 
 - <b>File Integrity Monitoring</b>
-  - [FIM Through Powershell]()
+> <h6>still under construction</h6>
+  - [FIM Through Powershell](https://github.com/Joshua01X/FIM-Through-Powershell) 
 
 - <b>Google Cybersecurity Projects</b>
   - [Basic SQL Filtering](https://github.com/Joshua01X/Basic-SQL-Filtering)
