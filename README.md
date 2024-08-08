@@ -14,7 +14,6 @@ Welcome to my GitHub profile! I am a passionate and driven cybersecurity learner
   - [Setting Up Central Log Repository](https://github.com/Joshua01X/LAW-Configuration)
   - Incident Response Operation (next) <br>
 
-> <h6>still under construction</h6>
 - <b>File Integrity Monitoring</b>
   - [FIM Through Powershell](https://github.com/Joshua01X/FIM-Through-Powershell) 
 
