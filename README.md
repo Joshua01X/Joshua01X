@@ -14,11 +14,15 @@ Welcome to my GitHub profile! I am a passionate and driven cybersecurity learner
   - [Setting Up Central Log Repository](https://github.com/Joshua01X/LAW-Configuration)
   - Incident Response Operation (next) <br>
 
+- <b>File Integrity Monitoring</b>
+  - [FIM Through Powershell]()
+
 - <b>Google Cybersecurity Projects</b>
   - [Basic SQL Filtering](https://github.com/Joshua01X/Basic-SQL-Filtering)
   - [Incident Report Analysis](https://github.com/Joshua01X/Incident-Report-Analysis)
   - [Security Risk Assessment Report](https://github.com/Joshua01X/Risk-Assessment-Report)
   - [Vulnerability Assessment Report](https://github.com/Joshua01X/Vulnerability-Assessment)
+
 
 
 <h4> - 🔭 Working on OpenVAS Vulnerability Management Lab project and Wazuh platform <br>
