@@ -20,8 +20,6 @@ Welcome to my GitHub profile! I am a passionate and driven cybersecurity learner
   - [Security Risk Assessment Report](https://github.com/Joshua01X/Risk-Assessment-Report)
   - [Vulnerability Assessment Report](https://github.com/Joshua01X/Vulnerability-Assessment)
 
-- <b>Simple REST API<b>
-  - Node.Js (next)
 
 <h4> - 🔭 Working on OpenVAS Vulnerability Management Lab project and Wazuh platform <br>
 - 🌱 Learning CompTIA Sec+ contents and Qualys' Certified Training Programs </h4>
