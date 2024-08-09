@@ -32,11 +32,11 @@ Welcome to my GitHub profile! I am a passionate and driven cybersecurity learner
 > <h5>section under construction</h5>
 ## 🔗 Let's Connnect!
 
-[<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Joshua | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Joshua | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Joshua | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter com/
-[instagram]: https://www.instagram com/
-[linkedin]: https://linkedin com/in/
+[twitter]: https://twitter.com/
+[instagram]: https://www.instagram.com/
+[linkedin]: https://linkedin.com/in/
 
