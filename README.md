@@ -15,7 +15,6 @@ Welcome to my GitHub profile! I am a passionate and driven cybersecurity learner
   - [Setting Up Microsoft Sentinel (SIEM)](https://github.com/Joshua01X/SIEM-Configuration)
   - [Setting Up Central Log Repository](https://github.com/Joshua01X/LAW-Configuration)
  <br>
-
 - <b>File Integrity Monitoring</b>
   - [FIM Through Powershell](https://github.com/Joshua01X/FIM-Through-Powershell) 
 
