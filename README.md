@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I am a passionate and driven cybersecurity learner
 - <b>Microsoft Azure Projects</b>
   - [Real-time SOC & Honeynet Environment Deployment](https://github.com/Joshua01X/CLOUD-SOC)
   - [Incident Response Operation](https://github.com/Joshua01X/Incident-Response-Operation)
-  - Microsoft Entra ID Operation (next)
+  - [Microsoft Entra ID Operation](https://github.com/Joshua01X/Users-And-Groups-Management)
   - [Setting Up Honeynet Environment](https://github.com/Joshua01X/Honeynet-Configuration)
   - [Setting Up Microsoft Sentinel (SIEM)](https://github.com/Joshua01X/SIEM-Configuration)
   - [Setting Up Central Log Repository](https://github.com/Joshua01X/LAW-Configuration)
