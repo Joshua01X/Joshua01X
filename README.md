@@ -3,7 +3,7 @@
 <h1 align="center">Hello, I'm Joshua! </h1>
 <h3 align="center"> Committed to cybersecurity excellence and continuous learning </h3><br>
 
-Welcome to my GitHub profile! I am a passionate and driven cybersecurity learner dedicated to safeguarding digital environments and enhancing security protocols. Here, you will find a collection of my work, ranging from innovative security solutions to practical implementations of cybersecurity best practices. I am eager to contribute to open-source projects, collaborate with like-minded professionals, and continuously expand my knowledge and skills. Let's connect and work together to create a safer and more secure digital world!</p><br>
+Welcome to my GitHub profile! Here, you will find a collection of my work, ranging from innovative security solutions to practical implementations of cybersecurity best practices. I am eager to contribute to open-source projects, collaborate with like-minded professionals, and continuously expand my knowledge and skills. Let's connect and work together to create a safer and more secure digital world!</p><br>
 
 ## 🖥️ Projects
 
