@@ -41,5 +41,5 @@ Welcome to my GitHub profile! Here, you will find a collection of my work, rangi
 
 [twitter]: https://twitter.com/
 [instagram]: https://www.instagram.com/
-[linkedin]: https://linkedin.com/in/
+[linkedin]: linkedin.com/in/joshuabalondo1
 
