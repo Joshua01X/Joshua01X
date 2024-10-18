@@ -29,7 +29,7 @@ Welcome to my GitHub profile! Here, you will find a collection of my work, rangi
 
 ## 🗺️Checkout My Roadmaps!
   - [Fundamentals](https://github.com/Joshua01X/Personal-Roadmap)
-  - <b>Specialized</b>
+  - <b>Specialized:</b>
     - [Soon...]
 
 > <h5>section under construction</h5>
