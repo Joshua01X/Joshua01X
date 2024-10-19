@@ -1,9 +1,20 @@
 ![banner](https://github.com/Joshua01X/Joshua01X/blob/main/banner.png?raw=true)
 
-<h1 align="center">Hello, I'm Joshua! </h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+Joshua+Balondo!;" />
+</h1>
+
 <h3 align="center"> Committed to cybersecurity excellence and continuous learning </h3><br>
 
-Welcome to my GitHub profile! Here, you will find a collection of my work, ranging from innovative security solutions to practical implementations of cybersecurity best practices. I am eager to contribute to open-source projects, collaborate with like-minded professionals, and continuously expand my knowledge and skills. Let's connect and work together to create a safer and more secure digital world!</p><br>
+<div align="center">
+ 
+ 🔭 I’m currently reviewing my **CompTIA A+, Sec+, and Net+ Fundamentals**
+ 
+ 🌱 I’m planning to tackle **Microsoft SC-900 and SC-200** soon
+
+⚡ Fun fact **The first computer "bug" was a real moth found in a computer in 1947**
+
+ </div>
 
 ## 🖥️ Projects
 
