@@ -42,6 +42,17 @@
     - [Soon...]
 
 > <h5>section under construction</h5>
+
+## 📊 Statistics
+
+<div align="center">
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Joshua01X&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <br/><br/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Joshua01X&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&hide=issues" alt="readme stats" />
+  <br/><br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshua01X&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
 ## 🔗 Let's Connnect!
 
 <div align="center"> 
@@ -52,12 +63,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
-
-[<img align="left" alt="Joshua | LinkedIn" width="50px" height="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Joshua | Twitter" width="50px" height="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Joshua | Instagram" width="50px" height="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/
-[instagram]: https://www.instagram.com/
-[linkedin]: https://www.linkedin.com/in/joshuabalondo1
-
