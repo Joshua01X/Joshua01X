@@ -12,7 +12,7 @@
  
  🌱 I’m planning to tackle **Microsoft SC-900 and SC-200** soon
 
-⚡ Fun fact **The first computer "bug" was a real moth found in a computer in 1947**
+⚡ Fun fact: **The first computer "bug" was a real moth found in a computer in 1947**
 
  </div>
 
@@ -45,6 +45,15 @@
 
 > <h5>section under construction</h5>
 ## 🔗 Let's Connnect!
+
+<div align="center"> 
+  <a href="mailto:joshuabalondo1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/joshuabalondo1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
 
 [<img align="left" alt="Joshua | LinkedIn" width="50px" height="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Joshua | Twitter" width="50px" height="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
