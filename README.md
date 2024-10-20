@@ -41,8 +41,6 @@
   - <b>Specialized:</b>
     - [Soon...]
 
-> <h5>section under construction</h5>
-
 ## 📊 Statistics
 
 <div align="center">
