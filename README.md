@@ -41,12 +41,6 @@
   - <b>Specialized:</b>
     - [Soon...]
 
-## 📊 Statistics
-
-<div align="center">
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Joshua01X&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-</div>
-
 ## 🔗 Let's Connnect!
 
 <div align="center"> 
