@@ -16,7 +16,7 @@
 
 ## 🖥️ Projects
 
-- <b>Microsoft Azure Projects</b>
+- <b>Microsoft Azure: </b>
   - [Real-time SOC & Honeynet Environment Deployment](https://github.com/Joshua01X/CLOUD-SOC)
   - [Incident Response Operation](https://github.com/Joshua01X/Incident-Response-Operation)
   - [Microsoft Entra ID Operation](https://github.com/Joshua01X/Users-And-Groups-Management)
@@ -30,7 +30,7 @@
 - <b>Simple REST API</b>
   - [Basic REST API](https://github.com/Joshua01X/Basic-REST-API)
 
-- <b>Google Cybersecurity Projects</b>
+- <b>Google Cybersecurity: </b>
   - [Basic SQL Filtering](https://github.com/Joshua01X/Basic-SQL-Filtering)
   - [Incident Report Analysis](https://github.com/Joshua01X/Incident-Report-Analysis)
   - [Security Risk Assessment Report](https://github.com/Joshua01X/Risk-Assessment-Report)
