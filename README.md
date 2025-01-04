@@ -6,7 +6,7 @@
 
 <div align="center">
  
- 🔭 I’m currently reviewing my **CompTIA A+, Sec+, and Net+ Fundamentals**
+ 🔭 I regularly review my **CompTIA A+, Sec+, and Net+ Fundamentals**
  
  🌱 I’m planning to tackle **Microsoft SC-900 and SC-200** soon
 
