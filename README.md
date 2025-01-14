@@ -16,8 +16,9 @@
 
 ## 🖥️ Projects
 
-### 🚨 Security Operation and Incident Response Projects 🔥:
+### 🚨 Security Operation and Incident Response Projects:
 ### [1. Real-time SOC & Honeynet Environment Deployment](https://github.com/Joshua01X/CLOUD-SOC)
+#### Related Projects ⤵️:
   - [Incident Response Operation](https://github.com/Joshua01X/Incident-Response-Operation)
   - [Microsoft Entra ID Operation](https://github.com/Joshua01X/Users-And-Groups-Management)
   - [Setting Up Honeynet Environment](https://github.com/Joshua01X/Honeynet-Configuration)
@@ -26,11 +27,11 @@
 ### [2. Threat Hunting Detection Cases: Practical Applications](https://github.com/Joshua01X/Section-Under-Construction) <br><br>
 
 
-### 🔓 Vulnerability Management Projects 🔏: 
+### 🔓 Vulnerability Management Projects: 
 ### [1. Vulnerability Management Program Implementation](https://github.com/Joshua01X/Section-Under-Construction)
 ### [2. Programmatic Vulnerability Remediation Through PowerShell and BASH](https://github.com/Joshua01X/Section-Under-Construction) <br><br><br><br>
 
-### 🗂️ Other Projects 💻:
+### 🗂️ Other Projects:
 - <b>File Integrity Monitoring</b>
   - [FIM Through Powershell](https://github.com/Joshua01X/FIM-Through-Powershell)
  
