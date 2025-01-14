@@ -23,12 +23,12 @@
   - [Setting Up Honeynet Environment](https://github.com/Joshua01X/Honeynet-Configuration)
   - [Setting Up Microsoft Sentinel (SIEM)](https://github.com/Joshua01X/SIEM-Configuration)
   - [Setting Up Central Log Repository](https://github.com/Joshua01X/LAW-Configuration)
-### [2. Threat Hunting Detection Cases: Practical Applications] <br><br>
+### [2. Threat Hunting Detection Cases: Practical Applications](https://github.com/Joshua01X/Section-Under-Construction) <br><br>
 
 
 ### 🔓 Vulnerability Management Projects 🔏: 
-### [1. Vulnerability Management Program Implementation]
-### [2. Programmatic Vulnerability Remediation Through PowerShell and BASH] <br><br><br><br>
+### [1. Vulnerability Management Program Implementation](https://github.com/Joshua01X/Section-Under-Construction)
+### [2. Programmatic Vulnerability Remediation Through PowerShell and BASH](https://github.com/Joshua01X/Section-Under-Construction) <br><br><br><br>
 
 ### 🗂️ Other Projects 💻:
 - <b>File Integrity Monitoring</b>
