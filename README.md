@@ -18,15 +18,17 @@
 
 ### 🚨 Security Operation and Incident Response Projects 🔥:
 ### [1. Real-time SOC & Honeynet Environment Deployment](https://github.com/Joshua01X/CLOUD-SOC)
-#### [1.1 Incident Response Operation](https://github.com/Joshua01X/Incident-Response-Operation)
-#### [1.2 Microsoft Entra ID Operation](https://github.com/Joshua01X/Users-And-Groups-Management)
-#### [1.3 Setting Up Honeynet Environment](https://github.com/Joshua01X/Honeynet-Configuration)
-#### [1.4 Setting Up Microsoft Sentinel (SIEM)](https://github.com/Joshua01X/SIEM-Configuration)
-#### [1.5 Setting Up Central Log Repository](https://github.com/Joshua01X/LAW-Configuration)
+  - [Incident Response Operation](https://github.com/Joshua01X/Incident-Response-Operation)
+  - [Microsoft Entra ID Operation](https://github.com/Joshua01X/Users-And-Groups-Management)
+  - [Setting Up Honeynet Environment](https://github.com/Joshua01X/Honeynet-Configuration)
+  - [Setting Up Microsoft Sentinel (SIEM)](https://github.com/Joshua01X/SIEM-Configuration)
+  - [Setting Up Central Log Repository](https://github.com/Joshua01X/LAW-Configuration)
+### [2. Threat Hunting Detection Cases: Practical Applications]
 
 
-### 🔓 Vulnerability Management Projects 🔏:
-
+### 🔓 Vulnerability Management Projects 🔏: 
+### [1. Vulnerability Management Program Implementation]
+### [2. Programmatic Vulnerability Remediation Through PowerShell and BASH] <br><br><br><br>
 
 ### 🗂️ Other Projects 💻:
 - <b>File Integrity Monitoring</b>
