@@ -44,7 +44,7 @@
   - [Security Risk Assessment Report](https://github.com/Joshua01X/Risk-Assessment-Report)
   - [Vulnerability Assessment Report](https://github.com/Joshua01X/Vulnerability-Assessment)
 
-## 🗺️Check out My Roadmaps!
+## 🗺️Personal Roadmaps
   - [Personal Path to Fundamentals](https://github.com/Joshua01X/Personal-Roadmap)
   - <b>Specialized:</b>
     - [Soon...]
