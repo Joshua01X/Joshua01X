@@ -14,7 +14,7 @@
 
  </div>
 
-## 🖥️ Projects
+## 🖥️ Main Projects
 
 ### 🚨 Security Operation and Incident Response Projects Through Azure:
 ### [1. Real-time SOC & Honeynet Environment Deployment](https://github.com/Joshua01X/CLOUD-SOC)
