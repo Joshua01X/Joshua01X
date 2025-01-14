@@ -17,12 +17,12 @@
 ## 🖥️ Projects
 
 ### 🚨 Security Operation and Incident Response Projects 🔥:
-### [1. Real-time SOC & Honeynet Environment Deployment:](https://github.com/Joshua01X/CLOUD-SOC)
-  - [1.1 Incident Response Operation](https://github.com/Joshua01X/Incident-Response-Operation)
-  - [1.2 Microsoft Entra ID Operation](https://github.com/Joshua01X/Users-And-Groups-Management)
-  - [1.3 Setting Up Honeynet Environment](https://github.com/Joshua01X/Honeynet-Configuration)
-  - [1.4 Setting Up Microsoft Sentinel (SIEM)](https://github.com/Joshua01X/SIEM-Configuration)
-  - [1.5 Setting Up Central Log Repository](https://github.com/Joshua01X/LAW-Configuration)
+### [1. Real-time SOC & Honeynet Environment Deployment](https://github.com/Joshua01X/CLOUD-SOC)
+#### [1.1 Incident Response Operation](https://github.com/Joshua01X/Incident-Response-Operation)
+#### [1.2 Microsoft Entra ID Operation](https://github.com/Joshua01X/Users-And-Groups-Management)
+#### [1.3 Setting Up Honeynet Environment](https://github.com/Joshua01X/Honeynet-Configuration)
+#### [1.4 Setting Up Microsoft Sentinel (SIEM)](https://github.com/Joshua01X/SIEM-Configuration)
+#### [1.5 Setting Up Central Log Repository](https://github.com/Joshua01X/LAW-Configuration)
 
 
 ### 🔓 Vulnerability Management Projects 🔏:
