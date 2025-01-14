@@ -16,7 +16,7 @@
 
 ## 🖥️ Projects
 
-### 🚨 Security Operation and Incident Response Projects:
+### 🚨 Security Operation and Incident Response Projects Through Azure:
 ### [1. Real-time SOC & Honeynet Environment Deployment](https://github.com/Joshua01X/CLOUD-SOC)
 #### Related Projects ⤵️:
   - [Incident Response Operation](https://github.com/Joshua01X/Incident-Response-Operation)
@@ -27,7 +27,7 @@
 ### [2. Threat Hunting Detection Cases: Practical Applications](https://github.com/Joshua01X/Section-Under-Construction) <br><br><br>
 
 
-### 🔓 Vulnerability Management Projects: 
+### 🔓 Vulnerability Management Projects Through Tenable: 
 ### [1. Vulnerability Management Program Implementation](https://github.com/Joshua01X/Section-Under-Construction)
 ### [2. Programmatic Vulnerability Remediation Through PowerShell and BASH](https://github.com/Joshua01X/Section-Under-Construction) <br><br><br>
 
