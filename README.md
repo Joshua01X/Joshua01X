@@ -28,7 +28,7 @@
 
 ### 🔓 Vulnerability Management Projects Through Tenable: 
   - [Vulnerability Management Program Implementation](https://github.com/Joshua01X/Section-Under-Construction)<br>
-    Related Projects ⤵️:<br><br><br>
+    Related Projects ⤵️:<br><br>
   - [Programmatic Vulnerability Remediation Through PowerShell and BASH](https://github.com/Joshua01X/Section-Under-Construction)<br>
     Related Projects ⤵️:<br><br><br>
 
