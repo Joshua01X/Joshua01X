@@ -17,28 +17,28 @@
 ## 🖥️ Main Projects
 
 ### 🚨 Security Operation and Incident Response Projects Through Azure:
-### [1. Real-time SOC & Honeynet Environment Deployment](https://github.com/Joshua01X/CLOUD-SOC)
-#### Related Projects ⤵️:
-  - [Incident Response Operation](https://github.com/Joshua01X/Incident-Response-Operation)
-  - [Microsoft Entra ID Operation](https://github.com/Joshua01X/Users-And-Groups-Management)
-  - [Setting Up Honeynet Environment](https://github.com/Joshua01X/Honeynet-Configuration)
-  - [Setting Up Microsoft Sentinel (SIEM)](https://github.com/Joshua01X/SIEM-Configuration)
-  - [Setting Up Central Log Repository](https://github.com/Joshua01X/LAW-Configuration)
-### [2. Threat Hunting Detection Cases: Practical Applications](https://github.com/Joshua01X/Section-Under-Construction)
-#### Related Projects ⤵️:<br><br><br>
+  - [Real-time SOC & Honeynet Environment Deployment](https://github.com/Joshua01X/CLOUD-SOC)<br>
+    Related Projects ⤵️:
+    - [Incident Response Operation](https://github.com/Joshua01X/Incident-Response-Operation)
+    - [Microsoft Entra ID Operation](https://github.com/Joshua01X/Users-And-Groups-Management)
+    - [Setting Up Honeynet Environment](https://github.com/Joshua01X/Honeynet-Configuration)
+    - [Setting Up Microsoft Sentinel (SIEM)](https://github.com/Joshua01X/SIEM-Configuration)
+    - [Setting Up Central Log Repository](https://github.com/Joshua01X/LAW-Configuration)<br>
+  - [Threat Hunting Detection Cases: Practical Applications](https://github.com/Joshua01X/Section-Under-Construction)<br>
+    Related Projects ⤵️:<br><br><br>
 
 
 ### 🔓 Vulnerability Management Projects Through Tenable: 
-### [1. Vulnerability Management Program Implementation](https://github.com/Joshua01X/Section-Under-Construction)
-#### Related Projects ⤵️:<br><br><br>
-### [2. Programmatic Vulnerability Remediation Through PowerShell and BASH](https://github.com/Joshua01X/Section-Under-Construction)
-#### Related Projects ⤵️:<br><br><br>
+  - [Vulnerability Management Program Implementation](https://github.com/Joshua01X/Section-Under-Construction)<br>
+    Related Projects ⤵️:<br><br><br>
+  - [Programmatic Vulnerability Remediation Through PowerShell and BASH](https://github.com/Joshua01X/Section-Under-Construction)<br>
+    Related Projects ⤵️:<br><br><br>
 
 ### 🗂️ Other Projects:
-- <b>File Integrity Monitoring</b>
+- <b>File Integrity Monitoring:</b>
   - [FIM Through Powershell](https://github.com/Joshua01X/FIM-Through-Powershell)
  
-- <b>Simple REST API</b>
+- <b>Simple REST API:</b>
   - [Basic REST API](https://github.com/Joshua01X/Basic-REST-API)
 
 - <b>Google Cybersecurity: </b>
