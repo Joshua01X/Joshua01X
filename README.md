@@ -2,17 +2,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFA500&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Howdy!+👋;+I'm+Joshua+Balondo!;" />
 </h1>
 
-<h3 align="center"> Committed to cybersecurity excellence and continuous learning </h3><br>
-
-<div align="center">
- 
- 🔭 I regularly review my **CompTIA Trifecta Fundamentals**
- 
- 🌱 I’m planning to tackle **Microsoft SC-900 and SC-200** soon
-
-⚡ Fun fact: **The first computer "bug" was a real moth found in a computer in 1947**
-
- </div>
+<h3 align="center"> Committed to Continuous Learning </h3>
+<div align="center"> 
+  <a href="mailto:joshuabalondo1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/joshuabalondo1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
 
 ## 🖥️ Main Projects
 
@@ -51,6 +49,16 @@
   - [Personal Path to Fundamentals](https://github.com/Joshua01X/Personal-Roadmap)
   - <b>Specialized:</b>
     - [Soon...]
+
+<h2>🧰 Tools:</h2>
+<div>
+    <img src="https://img.shields.io/badge/-Active%20Directory-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PowerShell-2E6DBF?&style=for-the-badge&logo=PowerShell&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tenable-3E4D88?&style=for-the-badge&logo=Tenable&logoColor=white" />
+</div>
 
 ## 🔗 Let's Connnect!
 
