@@ -28,7 +28,7 @@
 
 
 ### 🔓 Vulnerability Management Projects Through Tenable: 
-  - [Vulnerability Management Program Implementation](https://github.com/Joshua01X/Section-Under-Construction)<br>
+  - [Vulnerability Management Program Implementation](https://github.com/Joshua01X/Vulnerability-Management-Program)<br>
     Related Projects ⤵️:
     - [Authenticate, Non-Authenticated, and Agent based scanning](https://github.com/Joshua01X/Section-Under-Construction)
     - [Utilizing DISA STIG and configuring scanning templates for scanning](https://github.com/Joshua01X/Section-Under-Construction)
