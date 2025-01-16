@@ -34,9 +34,9 @@
     - [Manual vulnerability remediation and scanning of target(s)](https://github.com/Joshua01X/Section-Under-Construction)
     <br><br>
   - [Programmatic Vulnerability Remediation Through PowerShell and BASH](https://github.com/Joshua01X/Section-Under-Construction)<br>
-    Related Projects ⤵️:<br><br><br>
+    Related Projects ⤵️:
     - [Utilizing DISA STIG and configuring scanning templates for scanning](https://github.com/Joshua01X/Section-Under-Construction)
-    - [Triggered/Scheduled scans and reporting](https://github.com/Joshua01X/Section-Under-Construction)
+    - [Triggered/Scheduled scans and reporting](https://github.com/Joshua01X/Section-Under-Construction)<br><br>
 
 ### 🗂️ Other Projects:
 - <b>File Integrity Monitoring:</b>
