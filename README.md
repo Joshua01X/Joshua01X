@@ -30,7 +30,7 @@
 ### 🔓 Vulnerability Management Projects Through Tenable: 
   - [Vulnerability Management Program Implementation](https://github.com/Joshua01X/Vulnerability-Management-Program)<br>
     Related Projects ⤵️:
-    - [Authenticate, Non-Authenticated, and Agent based scanning](https://github.com/Joshua01X/Section-Under-Construction)
+    - [Authenticated, Non-Authenticated, and Agent based scanning](https://github.com/Joshua01X/Section-Under-Construction)
     - [Manual vulnerability remediation and scanning of target(s)](https://github.com/Joshua01X/Section-Under-Construction)
     <br><br>
   - [Programmatic Vulnerability Remediation Through PowerShell and BASH](https://github.com/Joshua01X/Section-Under-Construction)<br>
