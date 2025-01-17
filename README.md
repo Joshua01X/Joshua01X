@@ -16,7 +16,7 @@
 
 ### 🚨 Security Operation and Incident Response Projects Through Azure:
   - [Real-time SOC & Honeynet Environment Deployment](https://github.com/Joshua01X/CLOUD-SOC)<br>
-    Related Projects ⤵️:
+    Related Projects:
     - [Incident Response Operation](https://github.com/Joshua01X/Incident-Response-Operation)
     - [Microsoft Entra ID Operation](https://github.com/Joshua01X/Users-And-Groups-Management)
     - [Setting Up Honeynet Environment](https://github.com/Joshua01X/Honeynet-Configuration)
@@ -24,17 +24,17 @@
     - [Setting Up Central Log Repository](https://github.com/Joshua01X/LAW-Configuration)
     <br><br>
   - [Threat Hunting Detection Cases](https://github.com/Joshua01X/Section-Under-Construction)<br>
-    Related Projects ⤵️:<br><br><br>
+    Related Projects:<br><br><br>
 
 
 ### 🔓 Vulnerability Management Projects Through Tenable: 
   - [Vulnerability Management Program Implementation](https://github.com/Joshua01X/Vulnerability-Management-Program)<br>
-    Related Projects ⤵️:
+    Related Projects:
     - [Authenticated, Non-Authenticated, and Agent based scanning](https://github.com/Joshua01X/Section-Under-Construction)
     - [Manual vulnerability remediation and scanning of target(s)](https://github.com/Joshua01X/Section-Under-Construction)
     <br><br>
   - [Programmatic Vulnerability Remediation Through PowerShell and BASH](https://github.com/Joshua01X/Section-Under-Construction)<br>
-    Related Projects ⤵️:
+    Related Projects:
     - [Utilizing DISA STIG and configuring scanning templates for scanning](https://github.com/Joshua01X/Section-Under-Construction)
     - [Triggered/Scheduled scans and reporting](https://github.com/Joshua01X/Section-Under-Construction)<br><br>
 
