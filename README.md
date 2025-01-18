@@ -32,7 +32,7 @@
     Related Projects:
     - [Authenticated, Non-Authenticated, and Agent Based Scanning](https://github.com/Joshua01X/Section-Under-Construction)
     - [Manual Vulnerability Remediation and Scanning of Target(s)](https://github.com/Joshua01X/Section-Under-Construction)
-    - [Host Discovery, Legacy Web App, and Malware Scannign](https://github.com/Joshua01X/Section-Under-Construction)
+    - [Host Discovery, Legacy Web App, and Malware Scanning](https://github.com/Joshua01X/Section-Under-Construction)
     <br><br>
   - [Programmatic Vulnerability Remediation Through PowerShell and BASH](https://github.com/Joshua01X/Section-Under-Construction)<br>
     Related Projects:
