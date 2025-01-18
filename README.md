@@ -23,7 +23,7 @@
     - [Setting Up Microsoft Sentinel (SIEM)](https://github.com/Joshua01X/SIEM-Configuration)
     - [Setting Up Central Log Repository](https://github.com/Joshua01X/LAW-Configuration)
     <br><br>
-  - [Threat Hunting Detection Cases](https://github.com/Joshua01X/Section-Under-Construction)<br>
+  - [Threat Hunting Detection](https://github.com/Joshua01X/Section-Under-Construction)<br>
     Related Projects:<br><br><br>
 
 
