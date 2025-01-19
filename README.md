@@ -24,8 +24,7 @@
     - [Setting Up Central Log Repository](https://github.com/Joshua01X/LAW-Configuration)
     <br><br>
   - [Threat Hunting Detection](https://github.com/Joshua01X/Section-Under-Construction)<br>
-    Related Projects:<br><br><br>
-
+    Related Projects:<br><br>
 
 ### 🔓 Vulnerability Management Projects Through Tenable: 
   - [Vulnerability Management Program Implementation](https://github.com/Joshua01X/Vulnerability-Management-Program)<br>
