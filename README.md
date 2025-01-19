@@ -31,7 +31,7 @@
   - [Vulnerability Management Program Implementation](https://github.com/Joshua01X/Vulnerability-Management-Program)<br>
     Related Projects:
     - [Authenticated, Non-Authenticated, and Agent Based Scanning](https://github.com/Joshua01X/Authenticated-Non-Authenticad-Agent-Based-Scanning)
-    - [Manual Vulnerability Remediation and Scanning of Target(s)](https://github.com/Joshua01X/Section-Under-Construction)
+    - [Manual Vulnerability Remediation and Scanning of Target(s)](https://github.com/Joshua01X/Manual-Vulnerability-Remediation-Of-Targets)
     <br><br>
   - [Programmatic Vulnerability Remediation Through PowerShell and BASH](https://github.com/Joshua01X/Section-Under-Construction)<br>
     Related Projects:
