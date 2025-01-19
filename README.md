@@ -34,7 +34,7 @@
     <br><br>
   - [Programmatic Vulnerability Remediation Through PowerShell and BASH](https://github.com/Joshua01X/Section-Under-Construction)<br>
     Related Projects:
-    - [Utilizing DISA STIG and Configuring Scanning Templates](https://github.com/Joshua01X/Section-Under-Construction)<br><br>
+    - [Utilizing DISA STIG and Configuring Scanning Templates](https://github.com/Joshua01X/Applying-DISA-STIG-Compliance-In-Scanning-Templates)<br><br>
 
 ### 🗂️ Other Projects:
 - <b>File Integrity Monitoring:</b>
