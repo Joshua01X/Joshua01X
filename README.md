@@ -22,27 +22,22 @@
     - [Setting Up Honeynet Environment](https://github.com/Joshua01X/Honeynet-Configuration)
     - [Setting Up Microsoft Sentinel (SIEM)](https://github.com/Joshua01X/SIEM-Configuration)
     - [Setting Up Central Log Repository](https://github.com/Joshua01X/LAW-Configuration)
-    <br><br>
   - [Threat Hunting Detection](https://github.com/Joshua01X/Section-Under-Construction)<br>
-    Related Projects:<br><br>
-
+    Related Projects:<br>
 ### 🔓 Vulnerability Management Projects Through Tenable: 
   - [Vulnerability Management Program Implementation](https://github.com/Joshua01X/Vulnerability-Management-Program)<br>
     Related Projects:
     - [Authenticated, Non-Authenticated, and Agent Based Scanning](https://github.com/Joshua01X/Authenticated-Non-Authenticad-Agent-Based-Scanning)
     - [Manual Vulnerability Remediation and Scanning of Target(s)](https://github.com/Joshua01X/Manual-Vulnerability-Remediation-Of-Targets)
-    <br><br>
   - [Programmatic Vulnerability Remediation Through PowerShell and BASH](https://github.com/Joshua01X/Section-Under-Construction)<br>
     Related Projects:
-    - [Utilizing DISA STIG and Configuring Scanning Templates](https://github.com/Joshua01X/Applying-DISA-STIG-Compliance-In-Scanning-Templates)<br><br>
+    - [Utilizing DISA STIG and Configuring Scanning Templates](https://github.com/Joshua01X/Applying-DISA-STIG-Compliance-In-Scanning-Templates)<br>
 
 ### 🗂️ Other Projects:
 - <b>File Integrity Monitoring:</b>
   - [FIM Through Powershell](https://github.com/Joshua01X/FIM-Through-Powershell)
- 
 - <b>Simple REST API:</b>
   - [Basic REST API](https://github.com/Joshua01X/Basic-REST-API)
-
 - <b>Google Cybersecurity: </b>
   - [Basic SQL Filtering](https://github.com/Joshua01X/Basic-SQL-Filtering)
   - [Incident Report Analysis](https://github.com/Joshua01X/Incident-Report-Analysis)
