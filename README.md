@@ -22,7 +22,7 @@
     - [Setting Up Honeynet Environment](https://github.com/Joshua01X/Honeynet-Configuration)
     - [Setting Up Microsoft Sentinel (SIEM)](https://github.com/Joshua01X/SIEM-Configuration)
     - [Setting Up Central Log Repository](https://github.com/Joshua01X/LAW-Configuration)
-  - [Threat Hunting Detection](https://github.com/Joshua01X/Threat-Hunting-Activity)<br>
+  - [Threat Hunt Activity: Unauthorized Tor Usage](https://github.com/Joshua01X/Unauthorized-Tor-Usage-Threat-Hunt)<br>
     Related Projects:<br>
 ### 🔓 Vulnerability Management Projects Through Tenable: 
   - [Vulnerability Management Program Implementation](https://github.com/Joshua01X/Vulnerability-Management-Program)<br>
