@@ -25,7 +25,7 @@
   - [Threat Hunt Activity: Unauthorized Tor Usage](https://github.com/Joshua01X/Unauthorized-Tor-Usage-Threat-Hunt)<br>
     Related Projects:<br>
     - [Scenario 1: Devices Exposed To The Internet](https://github.com/Joshua01X/CTH-Scenario-1-Exposed-Devices)
-    - [Scenario 2: Sudden Network Slowdown](https://github.com/Joshua01X/Section-Under-Construction)
+    - [Scenario 2: Sudden Network Slowdown](https://github.com/Joshua01X/CTH-Scenario-2-Sudden-Network-Slowdown)
     - [Scenario 3: Suspected Data Exfiltration](https://github.com/Joshua01X/Section-Under-Construction)
 ### 🔓 Vulnerability Management Projects Through Tenable: 
   - [Vulnerability Management Program Implementation](https://github.com/Joshua01X/Vulnerability-Management-Program)<br>
