@@ -21,7 +21,7 @@
     - [Microsoft Entra ID Operation](https://github.com/Joshua01X/Users-And-Groups-Management)
     - [Setting Up Honeynet Environment](https://github.com/Joshua01X/Honeynet-Configuration)
     - [Setting Up Microsoft Sentinel (SIEM)](https://github.com/Joshua01X/SIEM-Configuration)
-    - [Setting Up Central Log Repository](https://github.com/Joshua01X/LAW-Configuration)
+    - [Setting Up Central Log Repository (LAW)](https://github.com/Joshua01X/LAW-Configuration)
   - [Threat Hunt Activity: Unauthorized Tor Usage](https://github.com/Joshua01X/Unauthorized-Tor-Usage-Threat-Hunt)<br>
     Related Projects:<br>
     - [Scenario 1: Devices Exposed To The Internet](https://github.com/Joshua01X/CTH-Scenario-1-Exposed-Devices)
@@ -37,11 +37,8 @@
     - [Utilizing DISA STIG and Configuring Scanning Templates](https://github.com/Joshua01X/Applying-DISA-STIG-Compliance-In-Scanning-Templates)<br>
 
 ### 🗂️ Other Projects:
-- <b>File Integrity Monitoring:</b>
-  - [FIM Through Powershell](https://github.com/Joshua01X/FIM-Through-Powershell)
-- <b>Simple REST API:</b>
+  - [Interactive File Integrity Monitoring (FIM) Through Powershell](https://github.com/Joshua01X/FIM-Through-Powershell)
   - [Basic REST API](https://github.com/Joshua01X/Basic-REST-API)
-- <b>Google Cybersecurity: </b>
   - [Basic SQL Filtering](https://github.com/Joshua01X/Basic-SQL-Filtering)
   - [Incident Report Analysis](https://github.com/Joshua01X/Incident-Report-Analysis)
   - [Security Risk Assessment Report](https://github.com/Joshua01X/Risk-Assessment-Report)
@@ -49,8 +46,6 @@
 
 ## 🗺️Personal Roadmaps
   - [Personal Path to Fundamentals](https://github.com/Joshua01X/Personal-Roadmap)
-  - <b>Specialized:</b>
-    - [Soon...]
 
 ## 🛠️ Tools
 <div>
