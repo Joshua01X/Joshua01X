@@ -33,7 +33,7 @@
     Related Projects:
     - [Authenticated, Non-Authenticated, and Agent Based Scanning](https://github.com/Joshua01X/Authenticated-Non-Authenticad-Agent-Based-Scanning)
     - [Manual Vulnerability Remediation and Scanning of Target(s)](https://github.com/Joshua01X/Manual-Vulnerability-Remediation-Of-Targets)
-  - [Programmatic Vulnerability Remediation Through PowerShell and BASH](https://github.com/Joshua01X/Section-Under-Construction)<br>
+  - [Programmatic Vulnerability Remediation Through PowerShell and BASH](https://github.com/Joshua01X/Programmatic-Remediation-Scripts)<br>
     Related Projects:
     - [Utilizing DISA STIG and Configuring Scanning Templates](https://github.com/Joshua01X/Applying-DISA-STIG-Compliance-In-Scanning-Templates)<br>
 
