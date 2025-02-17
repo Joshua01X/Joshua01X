@@ -28,7 +28,7 @@
     - [Scenario 2: Sudden Network Slowdown](https://github.com/Joshua01X/CTH-Scenario-2-Sudden-Network-Slowdown)
     - [Scenario 3: Suspected Data Exfiltration](https://github.com/Joshua01X/CTH-Scenario-2-Possible-Data-Exfiltration)
     - [Scenario 4: Phishing Through Fake Software Update](https://github.com/Joshua01X/CTH-Scenario-4-Fake-Software-Update-Phishing)
-  - [Threat Hunt Activity 2: Stealthy Malware Execution](https://github.com/Joshua01X/Stealthy-Malware-Execution-Threat-Hunt)
+  - [Threat Hunt Activity 2: Stealthy Malware Execution](https://github.com/Joshua01X/Stealthy-Malware-Execution-Threat-Hunt)<br>
     Related Projects: <br>
 ### 🔓 Vulnerability Management Projects Through Tenable: 
   - [Vulnerability Management Program Implementation](https://github.com/Joshua01X/Vulnerability-Management-Program)<br>
