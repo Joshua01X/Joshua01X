@@ -76,4 +76,4 @@ I'm an intern at **Josh Madakor's Cyber Range**, where you can gain **real-world
 
 This is an **awesome opportunity to learn, collaborate, and possibly even work on projects together!**  
 
-🚀 <a href="https://www.skool.com/cyber-range/about?ref=eabd2668c4014d5f8addc8921418166e">Spots are limited—so sign up now!</a>
+<h3><a href="https://www.skool.com/cyber-range/about?ref=eabd2668c4014d5f8addc8921418166e">Spots are limited—so sign up now!</a></h3>
