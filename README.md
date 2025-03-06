@@ -70,7 +70,7 @@
 I'm an intern at **Josh Madakor's Cyber Range**, where you can gain **real-world, hands-on experience** in a **LIVE SOC environment** using enterprise-grade cybersecurity tools like **Tenable, Microsoft Azure, and Defender for Endpoint**.  
 
 ### **What You’ll Get:**  
-✅ **Courses & Training:** Vulnerability Management, Threat Hunting, Incident Response, Internship Opportunities, and Interview Preparation  
+✅ **Courses & Trainings:** Vulnerability Management, Threat Hunting, Incident Response, Internship Opportunities, and Interview Preparation  
 ✅ **Live Weekly Sessions:** Get answers to your cybersecurity questions and discuss IT/Cyber career paths  
 ✅ **Hands-On Labs:** Work with real-world security tools in a simulated enterprise environment  
 
