@@ -63,13 +63,17 @@
     <img src="https://img.shields.io/badge/-Tenable-3E4D88?&style=for-the-badge&logo=Tenable&logoColor=white" />
 </div>
 
-## 🔗 Let's Connnect!
+## 🔗 Join Us!
 
-<div> 
-  <a href="mailto:joshuabalondo1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/joshuabalondo1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
+### **Join the Cyber Range Community – Limited to 960 Members!**  
+
+I'm an intern at **Josh Madakor's Cyber Range**, where you can gain **real-world, hands-on experience** in a **LIVE SOC environment** using enterprise-grade cybersecurity tools like **Tenable, Microsoft Azure, and Defender for Endpoint**.  
+
+### **What You’ll Get:**  
+✅ **Courses & Training:** Vulnerability Management, Threat Hunting, Incident Response, Internship Opportunities, and Interview Preparation  
+✅ **Live Weekly Sessions:** Get answers to your cybersecurity questions and discuss IT/Cyber career paths  
+✅ **Hands-On Labs:** Work with real-world security tools in a simulated enterprise environment  
+
+This is an **awesome opportunity to learn, collaborate, and possibly even work on projects together!**  
+
+🚀 <a href="https://www.skool.com/cyber-range/about?ref=eabd2668c4014d5f8addc8921418166e">Spots are limited—so sign up now!</a>
