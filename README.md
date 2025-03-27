@@ -16,7 +16,7 @@
 
 ### 🚨 Security Operation and Incident Response Projects Through Azure:
   - [Real-time SOC & Honeynet Environment Deployment](https://github.com/Joshua01X/CLOUD-SOC)<br>
-    Related Projects:
+    Related Project(s):
     - [Incident Response Operation](https://github.com/Joshua01X/Incident-Response-Operation)
     - [Microsoft Entra ID Operation](https://github.com/Joshua01X/Users-And-Groups-Management)
     - [Setting Up Honeynet Environment](https://github.com/Joshua01X/Honeynet-Configuration)
@@ -26,7 +26,7 @@
 ### 🎯 Threat Hunt Development Through Azure and MDE: 
   - [Threat Hunt Activity 1: Unauthorized Tor Usage](https://github.com/Joshua01X/Unauthorized-Tor-Usage-Threat-Hunt)<br>
   - [Threat Hunt Activity 2: Stealthy Malware Execution](https://github.com/Joshua01X/Stealthy-Malware-Execution-Threat-Hunt)<br>
-    Related Projects:<br>
+    Related Project(s):<br>
     - [Scenario 1: Devices Exposed To The Internet](https://github.com/Joshua01X/CTH-Scenario-1-Exposed-Devices)
     - [Scenario 2: Sudden Network Slowdown](https://github.com/Joshua01X/CTH-Scenario-2-Sudden-Network-Slowdown)
     - [Scenario 3: Suspected Data Exfiltration](https://github.com/Joshua01X/CTH-Scenario-2-Possible-Data-Exfiltration)
@@ -35,11 +35,11 @@
 
 ### 🔓 Vulnerability Management Projects Through Tenable: 
   - [Vulnerability Management Program Implementation](https://github.com/Joshua01X/Vulnerability-Management-Program)<br>
-    Related Projects:
+    Related Project(s):
     - [Authenticated, Non-Authenticated, and Agent Based Scanning](https://github.com/Joshua01X/Authenticated-Non-Authenticad-Agent-Based-Scanning)
     - [Manual Vulnerability Remediation and Scanning of Target(s)](https://github.com/Joshua01X/Manual-Vulnerability-Remediation-Of-Targets)
   - [Programmatic Vulnerability Remediation Through PowerShell and BASH](https://github.com/Joshua01X/Programmatic-Remediation-Scripts)<br>
-    Related Projects:
+    Related Project(s):
     - [Utilizing DISA STIG and Configuring Scanning Templates](https://github.com/Joshua01X/Applying-DISA-STIG-Compliance-In-Scanning-Templates)<br>
 
 ### 🗂️ Other Projects:
